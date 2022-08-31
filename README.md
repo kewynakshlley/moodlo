@@ -10,7 +10,7 @@ Response example:
 
 ```
 {
-    "Feeling": "feeling hurt"
+    "Feeling": "feels hurt"
 }
 ```
 
